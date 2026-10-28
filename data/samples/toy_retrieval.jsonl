@@ -1,0 +1,10 @@
+{"query": "What causes rain?", "positive": "Rain forms when water vapor condenses into droplets in clouds."}
+{"query": "How does a CPU work?", "positive": "A CPU executes instructions to process data and control computer operations."}
+{"query": "What is photosynthesis?", "positive": "Plants convert light energy into chemical energy through photosynthesis."}
+{"query": "How do vaccines work?", "positive": "Vaccines train the immune system to recognize specific pathogens."}
+{"query": "What is machine learning?", "positive": "Machine learning enables computers to learn patterns from data."}
+{"query": "How do solar panels generate electricity?", "positive": "Solar panels convert sunlight into electrical energy using photovoltaic cells."}
+{"query": "What is a database index?", "positive": "A database index speeds up data retrieval by organizing references to records."}
+{"query": "Why do objects fall?", "positive": "Gravity attracts objects with mass toward one another."}
+{"query": "What is an API?", "positive": "An API defines how software components communicate and exchange information."}
+{"query": "How does a neural network learn?", "positive": "A neural network adjusts its parameters using training data and an optimization algorithm."}
